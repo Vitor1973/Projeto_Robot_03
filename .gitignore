@@ -1,0 +1,6 @@
+.idea/*
+reports/*
+.venv/*
+*.xml
+*.html
+__pycache__/*
